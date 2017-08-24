@@ -1,2 +1,0 @@
-# Servo
-projeto para graficas
